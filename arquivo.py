@@ -2,4 +2,5 @@ def funcao(param):
   print(param)
 
 
-funcao("Hello world!")
+var = "world!
+funcao(f"Hello {var}")
