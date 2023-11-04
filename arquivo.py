@@ -1,2 +1,6 @@
-var = "world!"
-print(f"Hello {var}")
+def funcao(param):
+  print(param)
+
+
+var = "world!
+funcao(f"Hello {var}")
